@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import useLocalStorage from "use-local-storage";
-
 import "./App.css";
 import { Toggle } from "./components/Toggle";
 
